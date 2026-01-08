@@ -1,0 +1,6 @@
+food,10,lunch
+transport,20,bus
+entertainment,30,movie
+food,20,dinner
+food,30,sweets
+groceries,40,idk
