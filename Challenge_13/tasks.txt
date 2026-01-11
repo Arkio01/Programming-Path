@@ -1,0 +1,3 @@
+study python,daily,False,3
+buy groceries,one-time,False,0
+fly,one-time,True,0
